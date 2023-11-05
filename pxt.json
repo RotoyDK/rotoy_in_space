@@ -12,7 +12,9 @@
         "README.md",
         "main.blocks",
         "main.ts",
-        "Mission_video.md"
+        "Mission_video.md",
+        "main.py",
+        "custom.ts"
     ],
     "testFiles": [
         "test.ts"
